@@ -12,10 +12,14 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 html {
     scroll-behavior: smooth;
+}
+body{
+    background-color: #e3ddddc2;
 }
 
 /* same properties */
@@ -381,6 +385,7 @@ html {
     transform: scale(1.08);
     transition:transform ease 500ms ;
 }
+
 
 
 .pro-img-con img {
